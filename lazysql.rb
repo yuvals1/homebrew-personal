@@ -1,5 +1,5 @@
 class Lazysql < Formula
-  desc "Cross-platform TUI database management tool written in Go (yuvals1's Version)"
+  desc "Cross-platform TUI database management tool written in Go (yuvals1's keybind modification)"
   homepage "https://github.com/yuvals1/lazysql"
   url "https://github.com/yuvals1/lazysql.git", branch: "modify-keybind-for-executing"
   version "0.1.0-yuvals1"
